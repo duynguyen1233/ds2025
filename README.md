@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: USTH ICT1
-* Student ID: Not-Vietnamese
+* Student Name: Duy Khanh Duy
+* Student ID: BA12-063
 * Student Group ID: Not-for-now
