@@ -6,7 +6,7 @@
 
 void send_file() {
     const char *server_ip = "192.168.110.5";
-    int server_port = 21003;
+    int server_port = 8080;
     const char *filename = "2.txt";
 
     // open file for read data
