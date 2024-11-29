@@ -6,7 +6,7 @@
 
 void send_file() {
     char *server_ip = "192.168.110.5";
-    int server_port = 21003;
+    int server_port = 8080;
     char *filename = "1.txt";
 
     // create socket client
