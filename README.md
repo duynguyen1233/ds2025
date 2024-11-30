@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Viet Anh Nguyen
-* Student ID: BA12-009
+* Student Name: Duy Khanh Duy
+* Student ID: BA12-063
 * Student Group ID: Not-for-now
