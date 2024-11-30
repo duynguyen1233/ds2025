@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Duy Khanh Nguyen
 * Student ID: BA12-063
-* Student Group ID: 10
+* Student Group ID: 8
